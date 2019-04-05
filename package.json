@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront using MySQL to keep track of inventory. The takes orders from customers and depletes stock from the store's inventory. ",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul-Vig/Bamazon.git"
+  },
+  "author": "Rahul Vig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahul-Vig/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Rahul-Vig/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
