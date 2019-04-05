@@ -3,6 +3,5 @@ An Amazon-like storefront with the inclusion of MySQL. The app will take in orde
 
 
 ![Alt text](1.png?raw=true "Screenshot 1")
-![Alt text](2.png?raw=true "Screenshot 2")
 ![Alt text](3.png?raw=true "Screenshot 3")
 ![Alt text](4.png?raw=true "Screenshot 4")
